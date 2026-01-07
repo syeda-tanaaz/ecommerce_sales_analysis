@@ -3,6 +3,7 @@ Interactive Power BI dashboard analyzing e-commerce sales performance, trends, a
 
 ## 📌 Project Overview
 This project focuses on building an interactive Power BI dashboard to analyze e-commerce sales data. It helps understand sales performance, revenue trends, customer behavior, and product-wise insights through clear and meaningful visualizations.
+
 The dashboard is designed to support data-driven decision making by converting raw sales data into actionable business insights.
 
 ## 🎯 Objectives
